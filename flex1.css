@@ -50,7 +50,7 @@
   background-color: orange;
 }
 
-.flex3 {
+.footer {
   width: 100%;
   padding: 20px;
   background-color: blue;
@@ -59,7 +59,7 @@
   justify-content: center;
 }
 
-.flex3 > div {
+.footer > div {
   height: 40px;
   margin: 10px;
   background-color: aquamarine;
